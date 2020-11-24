@@ -1,4 +1,3 @@
-
 .red {
     color:red;
   }
@@ -15,7 +14,6 @@
   padding: 8px;
   cursor: pointer;
   }
-  
   
   .Cockpit button:hover{
     background-color:lightgreen;
